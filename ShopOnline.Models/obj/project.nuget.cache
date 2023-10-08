@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rgFZUr70341pOXmhoWQgJ8SR7CCwG4t+dyXRdypKEu507p/7ozBRcEPPHRDr4pPEhFdKhxf5KwEsp1p70+SF5g==",
+  "dgSpecHash": "+e72lq25xmdmZMHKFbeQmi73XW2bnfms27L60qgnEsZCKribx2456Z7TZHqlKFav9F2TmgGO/CQe9n3piAuZXA==",
   "success": true,
-  "projectFilePath": "D:\\Project\\ShopOnlineSolution\\ShopOnline.Models\\ShopOnline.Models.csproj",
+  "projectFilePath": "D:\\Dot Net\\ShoppingCartApplication\\ShopOnline.Models\\ShopOnline.Models.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2eFaJFvSS0gld9nb+Je2X3qSo0lnMLykz2HBxvNVe09UhMv/h6/WZELKDPEk0nWqkhi3xAqMw0aNVnWOSd1Z+Q==",
+  "dgSpecHash": "JJf7WLvzTKkh6jFH2LPoWNDBjRSbyKqj7nMvXe/UQ1cwbPKqCNe+msyH5XvpkRqLAeqQqVK2doiyzZmEypzECA==",
   "success": true,
-  "projectFilePath": "D:\\Project\\ShopOnlineSolution\\ShopOnline.Web\\ShopOnline.Web.csproj",
+  "projectFilePath": "D:\\Dot Net\\ShoppingCartApplication\\ShopOnline.Web\\ShopOnline.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\karna\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.20\\microsoft.aspnetcore.authorization.6.0.20.nupkg.sha512",
     "C:\\Users\\karna\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.20\\microsoft.aspnetcore.components.6.0.20.nupkg.sha512",

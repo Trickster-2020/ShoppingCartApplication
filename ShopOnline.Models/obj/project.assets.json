@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Project\\ShopOnlineSolution\\ShopOnline.Models\\ShopOnline.Models.csproj",
+      "projectUniqueName": "D:\\Dot Net\\ShoppingCartApplication\\ShopOnline.Models\\ShopOnline.Models.csproj",
       "projectName": "ShopOnline.Models",
-      "projectPath": "D:\\Project\\ShopOnlineSolution\\ShopOnline.Models\\ShopOnline.Models.csproj",
+      "projectPath": "D:\\Dot Net\\ShoppingCartApplication\\ShopOnline.Models\\ShopOnline.Models.csproj",
       "packagesPath": "C:\\Users\\karna\\.nuget\\packages\\",
-      "outputPath": "D:\\Project\\ShopOnlineSolution\\ShopOnline.Models\\obj\\",
+      "outputPath": "D:\\Dot Net\\ShoppingCartApplication\\ShopOnline.Models\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\karna\\AppData\\Roaming\\NuGet\\NuGet.Config",
