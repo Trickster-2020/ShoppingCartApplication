@@ -14,7 +14,7 @@ namespace ShopOnline.Web.Services
         }
 
         public async Task<ProductDto> GetItem(int id)
-        {
+        {            
             try
             {
                 var response = await httpClient.GetAsync($"api/Product/{id}");

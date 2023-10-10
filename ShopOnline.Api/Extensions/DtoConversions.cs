@@ -29,7 +29,7 @@ namespace ShopOnline.Api.Extensions
             return new ProductDto
             {
                 Id = product.Id,
-                Name = productCategory.Name,
+                Name = product.Name,
                 Description = product.Description,
                 ImageURL = product.ImageURL,
                 Price = product.Price,
